@@ -2,7 +2,7 @@ Programando em </div>
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-- 😃 Olá, eu sou Bruno Gustavo, e sou iniciante na Linguagem Python
+- 😃 Olá, eu sou Bruno Gustavo, estudante na Linguagem Python, com visão em melhorar cada dia mais o conhecimento
   
 
  ![Bruno Gustavo Status GitHub](https://github-readme-stats.vercel.app/api?username=Bruno-lg-python&show_icons=true&theme=radical)
